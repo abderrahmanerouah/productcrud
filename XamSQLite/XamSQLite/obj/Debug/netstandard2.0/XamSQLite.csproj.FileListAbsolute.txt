@@ -1,0 +1,16 @@
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\bin\Debug\netstandard2.0\XamSQLite.deps.json
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\bin\Debug\netstandard2.0\XamSQLite.dll
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\bin\Debug\netstandard2.0\ref\XamSQLite.dll
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\bin\Debug\netstandard2.0\XamSQLite.pdb
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\XamSQLite.csprojAssemblyReference.cache
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\XamSQLite.AssemblyInfoInputs.cache
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\XamSQLite.AssemblyInfo.cs
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\XamSQLite.csproj.CoreCompileInputs.cache
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\XamSQLite.dll
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\ref\XamSQLite.dll
+C:\Users\youcode\Desktop\XamSQLite-CRUD-operation\XamSQLite\XamSQLite\obj\Debug\netstandard2.0\XamSQLite.pdb
